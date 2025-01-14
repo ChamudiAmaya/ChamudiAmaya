@@ -18,8 +18,7 @@ I love to collaborate on interesting projects and expand my knowledge. Feel free
 
 - **Languages**: C++, PHP, JavaScript
 - **Web Development**: HTML, CSS
-- **Tools/Frameworks**: [Add any tools or frameworks you are learning or familiar with]
-- **Databases**: [Mention if you're working with any database technologies like MySQL, MongoDB, etc.]
+- **Databases**: MySQL
 
 ---
 
@@ -27,7 +26,7 @@ I love to collaborate on interesting projects and expand my knowledge. Feel free
 
 I’d love to connect with you! You can reach me via email for collaboration, discussions, or general inquiries.
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 📧 [jchamudiamaya@gmail.com](mailto:jchamudiamaya@gmail.com)
 
 ---
 
@@ -35,18 +34,6 @@ I’d love to connect with you! You can reach me via email for collaboration, di
 
 ![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)  
 _This is a quick snapshot of my activity and contributions on GitHub._
-
----
-
-## My Projects :rocket:
-
-Here are a few of my recent projects:
-
-- **[Project 1](link_to_project)**: Description of Project 1
-- **[Project 2](link_to_project)**: Description of Project 2
-- **[Project 3](link_to_project)**: Description of Project 3
-
-Feel free to explore my repositories to see more of my work!
 
 ---
 
